@@ -1,0 +1,7 @@
+Duplicate Lines Finder
+wersja 1.0
+
+Autor: Mateusz "m4tx" M.
+www.m4tx.2ap.pl
+
+Program s³u¿y do wyszukiwania zduplikowanych linii w plikach tekstowych.
