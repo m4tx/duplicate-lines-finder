@@ -1,7 +1,7 @@
 Duplicate Lines Finder
-wersja 1.0
+wersja 1.1
 
 Autor: Mateusz "m4tx" M.
 www.m4tx.2ap.pl
 
-Program s³u¿y do wyszukiwania zduplikowanych linii w plikach tekstowych.
+Program s³u¿y do wyszukiwania zduplikowanych linii w plikach tekstowych. Pozwala na wybranie separatora, który oddziela kolejne ci¹gi znaków. Wyœwietla statystyki pokazuj¹ce, ile miejsca zaoszczêdzono, liczbê duplikatów oraz czas operacji.

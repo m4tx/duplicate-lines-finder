@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <CodeBlocks_layout_file>
-	<ActiveTarget name="Debug" />
-	<File name="MainRc.rc" open="0" top="0" tabpos="2">
-		<Cursor position="69" topLine="0" />
+	<ActiveTarget name="Release" />
+	<File name="MainRc.rc" open="1" top="0" tabpos="5">
+		<Cursor position="51" topLine="0" />
 	</File>
-	<File name="MainSrc.cpp" open="1" top="1" tabpos="7">
-		<Cursor position="11974" topLine="422" />
+	<File name="MainSrc.cpp" open="1" top="1" tabpos="4">
+		<Cursor position="2822" topLine="57" />
 	</File>
 </CodeBlocks_layout_file>

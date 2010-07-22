@@ -1,2 +1,12 @@
 Wersja 1.0 (16-07-2010)
  - Pierwsza oficjalna wersja programu
+
+Wersja 1.1 (23-07-2010)
+ - Dodane pole "Separator".
+ - Dodane dymki z informacjami.
+ - Dodane statystyki - pola: "Zaoszczêdzono", "Liczba duplikatów" i "Czas operacji".
+ - Dodane menu programu oraz okno "O programie".
+ - Dodany przycisk minimalizacji.
+ - Dodane wsparcie dla Windows'owego systemu kodowania.
+ - Dodano ignorowanie pustych linii.
+ - Drobne zmiany w komunikatach.

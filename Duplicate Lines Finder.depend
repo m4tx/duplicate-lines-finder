@@ -1,11 +1,12 @@
 # depslib dependency file v1.0
-1279379642 source:g:\!_m4tx\c++\projekty\duplicate lines finder\duplicate lines finder\mainsrc.cpp
+1279867695 source:g:\!_m4tx\c++\projekty\duplicate lines finder\duplicate lines finder\mainsrc.cpp
 	<windows.h>
-	<commctrl.h>
+	<commctrl2.h>
 	<fstream>
 	<string>
 	<vector>
 	<math.h>
+	<baloon.h>
 
-1279265904 source:g:\!_m4tx\c++\projekty\duplicate lines finder\duplicate lines finder\mainrc.rc
+1279703198 source:g:\!_m4tx\c++\projekty\duplicate lines finder\duplicate lines finder\mainrc.rc
 

@@ -32,6 +32,9 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Linker>
+			<Add library="libcomctl32.a" />
+		</Linker>
 		<Unit filename="MainRc.rc">
 			<Option compilerVar="WINDRES" />
 		</Unit>
