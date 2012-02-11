@@ -1,7 +1,21 @@
+PL:
 Duplicate Lines Finder
-wersja 1.1
+wersja 2.0
 
 Autor: Mateusz "m4tx" M.
-www.m4tx.2ap.pl
+www.m4tx.pl
 
-Program s³u¿y do wyszukiwania zduplikowanych linii w plikach tekstowych. Pozwala na wybranie separatora, który oddziela kolejne ci¹gi znaków. Wyœwietla statystyki pokazuj¹ce, ile miejsca zaoszczêdzono, liczbê duplikatów oraz czas operacji.
+Wymagania: dowolny system obsÅ‚ugiwany przez JavÄ™ SE 1.6 lub nowszÄ…; zainstalowane JRE w wersji 1.6 lub nowszej.
+
+Program sÅ‚uÅ¼y do wyszukiwania zduplikowanych linii w plikach tekstowych. Pozwala na wybranie separatora, ktÃ³ry oddziela kolejne ciÄ…gi znakÃ³w.
+
+EN:
+Duplicate Lines Finder
+version 2.0
+
+Author: Mateusz "m4tx" M.
+www.m4tx.pl/en
+
+Requirements: any OS supported by Java SE 1.6 or later; JRE 1.6 or later installed.
+
+An application is used to search duplicated lines in text files. It allows to choose delimiter, which separates subsequent character strings.
